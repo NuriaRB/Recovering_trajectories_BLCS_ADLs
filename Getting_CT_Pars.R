@@ -1,4 +1,4 @@
-# 1. Take Pablo's parameters in DT
+# 1. Take Cáncer's parameters in DT
 # 2. Simulate various datasets
 # 3. Fit each dataset and obtain CT parameters
 # 4. Average CT parameters
